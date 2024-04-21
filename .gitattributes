@@ -1,1 +1,4 @@
 book/01-2016.pdf filter=lfs diff=lfs merge=lfs -text
+book/02-2017.pdf filter=lfs diff=lfs merge=lfs -text
+book/03-up-2018.pdf filter=lfs diff=lfs merge=lfs -text
+book/04-down-2018.pdf filter=lfs diff=lfs merge=lfs -text
